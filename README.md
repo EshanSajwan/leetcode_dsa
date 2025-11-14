@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0011-container-with-most-water) |
 | [0518-coin-change-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0724-find-pivot-index) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0011-container-with-most-water) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Prefix Sum
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0011-container-with-most-water) |
 | [0143-reorder-list](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0143-reorder-list) |
 ## Stack
 |  |
