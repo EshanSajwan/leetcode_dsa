@@ -1,16 +1,16 @@
 class Solution {
     public int deleteGreatestValue(int[][] grid) {
         for(int i = 0 ; i < grid.length ;i++){
-            PriorityQueue<Integer> pq = new PriorityQueue<>();
-            for(int j : grid[i]) pq.offer(j);
-            for(int j = grid[0].length -1 ;j > -1 ;j--) grid[i][j] = pq.poll();
+            Arrays.sort(grid[i]);
         }
-        int ans = 0;
-        for(int j = 0 ; j < grid[0].length ; j++){
-            int max = 0;
-            for(int i = 0 ; i < grid.length ; i++) max = Math.max(max , grid[i][j]);
-            ans += max;
+        int result = 0;
+        for(int col = grid[0].length-1 ; col > -1  ; col-- ){
+            int maxy = 0;
+            for(int i = 0 ; i < grid.length ; i++){
+                   maxy = Math.max(maxy , grid[i][col]);
+            }
+            result += maxy;
         }
-        return ans;
+        return result;
     }
 }
