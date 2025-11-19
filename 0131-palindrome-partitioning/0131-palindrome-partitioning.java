@@ -16,13 +16,13 @@ class Solution {
             if(isPal(s , pointer , i)){
                 ds.add(s.substring(pointer , i+1));
                 PP(i+1 , s , ds , ans);
-                ds.remove(ds.size()-1);
+                ds.removeLast();
             }
         }
     }
 
     boolean isPal(String s , int i , int j){
-        while(i <= j) if(s.charAt(i++) != s.charAt(j--)) return false;
+        while(i < j) if(s.charAt(i++) != s.charAt(j--)) return false;
         return true;
     }
 }
