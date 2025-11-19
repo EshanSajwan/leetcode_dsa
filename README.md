@@ -95,11 +95,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0099-recover-binary-search-tree) |
 | [0112-path-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0099-recover-binary-search-tree) |
 | [0112-path-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Breadth-First Search
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0099-recover-binary-search-tree) |
 | [0112-path-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Sorting
@@ -129,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0090-subsets-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
