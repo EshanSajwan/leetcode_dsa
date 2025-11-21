@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0069-sqrtx) |
 ## Binary Search
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0062-unique-paths) |
 | [0131-palindrome-partitioning](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0131-palindrome-partitioning) |
 | [0518-coin-change-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0518-coin-change-ii) |
 | [4041-climbing-stairs-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/4041-climbing-stairs-ii) |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0099-recover-binary-search-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
