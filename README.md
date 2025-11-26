@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0606-construct-string-from-binary-tree) |
 | [1143-longest-common-subsequence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1143-longest-common-subsequence) |
 | [2129-capitalize-the-title](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2129-capitalize-the-title) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Array
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3799-unique-3-digit-even-numbers](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3799-unique-3-digit-even-numbers) |
 ## Counting
