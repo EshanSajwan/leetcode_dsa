@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0008-string-to-integer-atoi) |
 | [0131-palindrome-partitioning](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0131-palindrome-partitioning) |
+| [0516-longest-palindromic-subsequence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0537-complex-number-multiplication](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0537-complex-number-multiplication) |
 | [0606-construct-string-from-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0606-construct-string-from-binary-tree) |
 | [1143-longest-common-subsequence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1143-longest-common-subsequence) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0518-coin-change-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1137-n-th-tribonacci-number) |
