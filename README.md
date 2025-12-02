@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1048-longest-string-chain) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1603-running-sum-of-1d-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1603-running-sum-of-1d-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1143-longest-common-subsequence) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [4041-climbing-stairs-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/4041-climbing-stairs-ii) |
 ## Recursion
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0368-largest-divisible-subset) |
 | [1048-longest-string-chain](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1048-longest-string-chain) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Heap (Priority Queue)
