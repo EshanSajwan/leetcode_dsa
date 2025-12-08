@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0064-minimum-path-sum) |
 | [0090-subsets-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0200-number-of-islands](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0216-combination-sum-iii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0322-coin-change) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0200-number-of-islands) |
 | [0931-minimum-falling-path-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -185,12 +187,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0099-recover-binary-search-tree) |
 | [0112-path-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0200-number-of-islands](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0547-number-of-provinces) |
 | [0606-construct-string-from-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0606-construct-string-from-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0547-number-of-provinces) |
 ## Binary Tree
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
