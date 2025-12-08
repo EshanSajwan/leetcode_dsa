@@ -251,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0547-number-of-provinces) |
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
