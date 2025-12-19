@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0096-unique-binary-search-trees) |
 | [0368-largest-divisible-subset](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0368-largest-divisible-subset) |
 | [0537-complex-number-multiplication](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0537-complex-number-multiplication) |
 | [1137-n-th-tribonacci-number](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1137-n-th-tribonacci-number) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0131-palindrome-partitioning) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0099-recover-binary-search-tree) |
 | [0112-path-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0099-recover-binary-search-tree) |
 | [0112-path-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0099-recover-binary-search-tree) |
 ## Combinatorics
 |  |
