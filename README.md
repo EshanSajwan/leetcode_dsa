@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0044-wildcard-matching](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0127-word-ladder) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0011-container-with-most-water) |
 | [0063-unique-paths-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0200-number-of-islands) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0695-max-area-of-island) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0099-recover-binary-search-tree) |
 | [0112-path-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -291,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0077-combinations](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0131-palindrome-partitioning) |
