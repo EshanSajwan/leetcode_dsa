@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0216-combination-sum-iii) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0136-single-number) |
 ## Binary Search Tree
 |  |
 | ------- |
