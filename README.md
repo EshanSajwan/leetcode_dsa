@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1143-longest-common-subsequence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2129-capitalize-the-title](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2129-capitalize-the-title) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Array
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0044-wildcard-matching) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Prefix Sum
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0845-longest-mountain-in-array) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3799-unique-3-digit-even-numbers](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3799-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
