@@ -1,34 +1,30 @@
 class Solution {
     Integer[][] dp;
-    public int longestCommonSubsequence(String text1, String text2) {
-        dp = new Integer[text1.length() +1][text2.length()+1];
-
-        for(int j = 0 ; j < text2.length() +1 ; j++) dp[0][j] = 0;
-        for(int i = 0 ; i < text1.length() +1 ; i++) dp[i][0] = 0;
-        for(int i = 1 ; i < text1.length() +1 ; i++){
-            for(int j = 1 ; j < text2.length() +1 ; j++){
-                // MATCH
-                if(text1.charAt(i-1) == text2.charAt(j-1))
-                     dp[i][j] =  1 + dp[i-1][j-1];// F(i - 1 , j - 1 , s1 , s2); 
-                else {
-                    // NOT MATCH
-                     dp[i][j] = Math.max(dp[i-1][j] , dp[i][j-1]);// F(i-1 , j , s1 , s2) , F(i , j-1 , s1 ,s2));
-                }
+    public int longestCommonSubsequence(String s1, String s2) {
+        int i = s1.length() -1  , j = s2.length() -1;
+        dp = new Integer[i+2][j+2];
+        for(int x = 0 ; x < i + 2 ; x++) dp[x][0] = 0;
+        for(int y = 0 ; y < j + 2; y++) dp[0][y] = 0;
+        for(int x = 1; x < i+ 2 ; x++){
+            for(int y = 1 ; y < j+ 2 ; y++){
+                if(s1.charAt(x-1) == s2.charAt(y-1)) 
+                     dp[x][y] = 1 + dp[ x -1][ y-1 ];
+                //not Match
+                else 
+                     dp[x][y] = Math.max(dp[ x -1][ y ] , dp[ x ][ y-1 ]);
             }
         }
-        return dp[text1.length()][text2.length()];// F(text1.length() , text2.length() , text1 , text2);
+        int lcs = dp[i+1][j+1];// longestCommonSubSequence(s1 ,s2 , i , j);
+        return lcs;
     }
-    int F(int i , int j , String s1 , String s2){
-
-        if(i == 0 || j == 0) return 0;
-
+    private int lcs(String s1 , String s2 , int i , int j){
+        if(i < 0 || j < 0) return 0;
         if(dp[i][j] != null) return dp[i][j];
-
-        // MATCH
-        if(s1.charAt(i-1) == s2.charAt(j-1))
-            return dp[i][j] =  1 + F(i - 1 , j - 1 , s1 , s2); 
-                                     
-        // NOT MATCH
-        return dp[i][j] = Math.max(F(i-1 , j , s1 , s2) , F(i , j-1 , s1 ,s2));
+        //match
+        if(s1.charAt(i) == s2.charAt(j))
+             return dp[i][j] = 1 + lcs(s1, s2, i -1, j-1);
+        //not Match
+        else 
+            return dp[i][j] = Math.max(lcs(s1, s2, i - 1, j) , lcs(s1, s2, i, j - 1));
     }
 }
