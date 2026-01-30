@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0196-delete-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0197-rising-temperature) |
 | [1068-product-sales-analysis-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1068-product-sales-analysis-i) |
 ## Topological Sort
 |  |
