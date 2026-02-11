@@ -14,7 +14,7 @@ class Solution {
             while(l < r) swap(l++ , r-- , nums);
         } else {
             i = n -1;
-            while(i >= piv){
+            while(i > piv){
                 if(nums[i] > nums[piv]) {
                     swap(piv , i , nums);
                     break;
