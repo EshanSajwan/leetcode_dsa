@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search Tree
 |  |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0190-reverse-bits) |
 ## Merge Sort
 |  |
 | ------- |
