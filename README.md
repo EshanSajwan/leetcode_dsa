@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2737-row-with-maximum-ones](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2737-row-with-maximum-ones) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3693-climbing-stairs-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3693-climbing-stairs-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3799-unique-3-digit-even-numbers) |
 | [4041-climbing-stairs-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/4041-climbing-stairs-ii) |
 ## Greedy
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [3693-climbing-stairs-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3693-climbing-stairs-ii) |
 | [4041-climbing-stairs-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/4041-climbing-stairs-ii) |
 ## Recursion
 |  |
