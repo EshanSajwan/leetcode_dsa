@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0257-binary-tree-paths) |
 | [0394-decode-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0402-remove-k-digits) |
+| [0474-ones-and-zeroes](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0537-complex-number-multiplication](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0537-complex-number-multiplication) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0454-4sum-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0454-4sum-ii) |
+| [0474-ones-and-zeroes](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0540-single-element-in-a-sorted-array) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0518-coin-change-ii) |
