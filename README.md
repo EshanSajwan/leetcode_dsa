@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0402-remove-k-digits) |
 | [0474-ones-and-zeroes](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0474-ones-and-zeroes) |
+| [0481-magical-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0481-magical-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0537-complex-number-multiplication](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0537-complex-number-multiplication) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0287-find-the-duplicate-number) |
+| [0481-magical-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0481-magical-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0845-longest-mountain-in-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0845-longest-mountain-in-array) |
 | [1048-longest-string-chain](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1048-longest-string-chain) |
