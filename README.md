@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0132-palindrome-partitioning-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0257-binary-tree-paths) |
+| [0318-maximum-product-of-word-lengths](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0318-maximum-product-of-word-lengths) |
 | [0394-decode-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0402-remove-k-digits) |
 | [0474-ones-and-zeroes](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0474-ones-and-zeroes) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0318-maximum-product-of-word-lengths](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0368-largest-divisible-subset) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0318-maximum-product-of-word-lengths) |
 | [0980-unique-paths-iii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0980-unique-paths-iii) |
 ## Binary Search Tree
 |  |
