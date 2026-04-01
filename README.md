@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0368-largest-divisible-subset) |
 | [0492-construct-the-rectangle](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0492-construct-the-rectangle) |
 | [0537-complex-number-multiplication](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0537-complex-number-multiplication) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0133-clone-graph) |
 | [0229-majority-element-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0229-majority-element-ii) |
+| [0264-ugly-number-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0264-ugly-number-ii) |
 | [0454-4sum-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0454-4sum-ii) |
 | [0721-accounts-merge](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0132-palindrome-partitioning-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0264-ugly-number-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0264-ugly-number-ii) |
 | [0743-network-delay-time](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0743-network-delay-time) |
 | [1405-longest-happy-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1405-longest-happy-string) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
