@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0655-print-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0655-print-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1020-number-of-enclaves) |
 | [1036-escape-a-large-maze](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1036-escape-a-large-maze) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1020-number-of-enclaves) |
 | [1036-escape-a-large-maze](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1036-escape-a-large-maze) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Binary Tree
 |  |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0655-print-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0655-print-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Sorting
 |  |
 | ------- |
