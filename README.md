@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [0606-construct-string-from-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0606-construct-string-from-binary-tree) |
+| [0648-replace-words](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0648-replace-words) |
 | [0657-robot-return-to-origin](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0657-robot-return-to-origin) |
 | [0721-accounts-merge](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0721-accounts-merge) |
 | [1048-longest-string-chain](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1048-longest-string-chain) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0643-maximum-average-subarray-i) |
+| [0648-replace-words](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0648-replace-words) |
 | [0695-max-area-of-island](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0264-ugly-number-ii) |
 | [0454-4sum-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0454-4sum-ii) |
+| [0648-replace-words](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0648-replace-words) |
 | [0721-accounts-merge](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -519,4 +522,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0743-network-delay-time](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0743-network-delay-time) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+## Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0648-replace-words) |
 <!---LeetCode Topics End-->
