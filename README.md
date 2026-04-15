@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3583-count-special-triplets](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3583-count-special-triplets) |
 | [3693-climbing-stairs-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3693-climbing-stairs-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3799-unique-3-digit-even-numbers) |
 | [4041-climbing-stairs-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/4041-climbing-stairs-ii) |
@@ -174,12 +175,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3583-count-special-triplets](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3583-count-special-triplets) |
 | [3799-unique-3-digit-even-numbers](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3799-unique-3-digit-even-numbers) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0229-majority-element-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3583-count-special-triplets](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3583-count-special-triplets) |
 ## Matrix
 |  |
 | ------- |
