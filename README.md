@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0368-largest-divisible-subset) |
 | [0390-elimination-game](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0390-elimination-game) |
+| [0486-predict-the-winner](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0492-construct-the-rectangle) |
 | [0537-complex-number-multiplication](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0537-complex-number-multiplication) |
 | [0780-reaching-points](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0780-reaching-points) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0454-4sum-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0454-4sum-ii) |
 | [0474-ones-and-zeroes](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0540-single-element-in-a-sorted-array) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0518-coin-change-ii) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0241-different-ways-to-add-parentheses) |
 | [0390-elimination-game](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0486-predict-the-winner) |
 | [3799-unique-3-digit-even-numbers](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3799-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -534,4 +538,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0648-replace-words) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
