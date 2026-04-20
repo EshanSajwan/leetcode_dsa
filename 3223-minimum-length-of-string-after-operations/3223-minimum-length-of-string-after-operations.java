@@ -1,15 +1,13 @@
 class Solution {
     public int minimumLength(String s) {
-        Map<Character , List<Integer>> map = new HashMap<>();
+        Map<Character , Integer> map = new HashMap<>();
         for(int i = 0 ; i < s.length() ; i++){
-            if(!map.containsKey(s.charAt(i))) map.put(s.charAt(i) , new ArrayList<>());
-            map.get(s.charAt(i)).add(i);
+            map.put(s.charAt(i) , map.getOrDefault(s.charAt(i) , 0) + 1);
         }
         // char str[] = s.toCharArray();
         int op = 0;
-        for(Map.Entry<Character , List<Integer>> e : map.entrySet()){
-            List<Integer> list = e.getValue();
-            int size = list.size();
+        for(Map.Entry<Character , Integer> e : map.entrySet()){
+            int size = e.getValue();
             if(size > 2) {
                 if(size % 2 == 0) op += size - 2;
                 else op += size - 1;
