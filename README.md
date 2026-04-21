@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2326-spiral-matrix-iv](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2326-spiral-matrix-iv) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2326-spiral-matrix-iv](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2326-spiral-matrix-iv) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2737-row-with-maximum-ones](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2737-row-with-maximum-ones) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0148-sort-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2326-spiral-matrix-iv](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2326-spiral-matrix-iv) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2326-spiral-matrix-iv](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2326-spiral-matrix-iv) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Sliding Window
