@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0606-construct-string-from-binary-tree) |
 | [0655-print-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0655-print-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0687-longest-univalue-path) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0606-construct-string-from-binary-tree) |
 | [0655-print-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0655-print-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0721-accounts-merge) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0606-construct-string-from-binary-tree) |
 | [0655-print-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0655-print-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0687-longest-univalue-path) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0099-recover-binary-search-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0669-trim-a-binary-search-tree) |
 ## Combinatorics
 |  |
 | ------- |
