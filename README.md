@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0492-construct-the-rectangle) |
 | [0537-complex-number-multiplication](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0537-complex-number-multiplication) |
 | [0780-reaching-points](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0780-reaching-points) |
+| [0957-prison-cells-after-n-days](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0957-prison-cells-after-n-days) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1137-n-th-tribonacci-number](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1137-n-th-tribonacci-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3783-mirror-distance-of-an-integer) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0845-longest-mountain-in-array) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0931-minimum-falling-path-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0931-minimum-falling-path-sum) |
+| [0957-prison-cells-after-n-days](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0957-prison-cells-after-n-days) |
 | [0980-unique-paths-iii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0980-unique-paths-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1020-number-of-enclaves](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1020-number-of-enclaves) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0648-replace-words) |
 | [0721-accounts-merge](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0721-accounts-merge) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0957-prison-cells-after-n-days](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0957-prison-cells-after-n-days) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1036-escape-a-large-maze](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1036-escape-a-large-maze) |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0318-maximum-product-of-word-lengths) |
+| [0957-prison-cells-after-n-days](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0957-prison-cells-after-n-days) |
 | [0980-unique-paths-iii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0980-unique-paths-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Binary Search Tree
