@@ -36,24 +36,15 @@ class Solution {
         int m = grid.length , n = grid[0].length;
         if(i == m - 1 && j == n - 1) return true;
         visit[i][j] = true;
-        // for(int x = 0 ; x < 4 ; x++){
-        //     int newR = i + dR[x] , newC = j + dC[x];
-        //     if(newR > -1 && newR < m && newC > -1 && newC < n && !visit[newR][newC]){
-        //         for(String dir : validDir.get(grid[i][j])){
-        //             if(x != move.get(dir)) continue;
-        //             if(validStep.get(dir).contains(grid[newR][newC]) && dfs(newR , newC , grid)) return true;
-        //         }
-        //     }
-        // }/////////////////////////////////////////
         
-            for(String dir : validDir.get(grid[i][j])){
-                int x = move.get(dir) ;
-                int newR = i + dR[x] , newC = j + dC[x];
-                if(newR > -1 && newR < m && newC > -1 && newC < n && !visit[newR][newC]){
-                    if(validStep.get(dir).contains(grid[newR][newC]) && dfs(newR , newC , grid))
-                        return true;
-                }
+        for(String dir : validDir.get(grid[i][j])){
+            int x = move.get(dir) ;
+            int newR = i + dR[x] , newC = j + dC[x];
+            if(newR > -1 && newR < m && newC > -1 && newC < n && !visit[newR][newC]){
+                if(validStep.get(dir).contains(grid[newR][newC]) && dfs(newR , newC , grid))
+                    return true;
             }
+        }
         return false;
     }
 }
