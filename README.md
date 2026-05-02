@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0492-construct-the-rectangle) |
+| [0507-perfect-number](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0507-perfect-number) |
 | [0537-complex-number-multiplication](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0537-complex-number-multiplication) |
 | [0780-reaching-points](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0780-reaching-points) |
 | [0957-prison-cells-after-n-days](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0957-prison-cells-after-n-days) |
