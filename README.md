@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1603-running-sum-of-1d-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2121-intervals-between-identical-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2121-intervals-between-identical-elements) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2326-spiral-matrix-iv](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2326-spiral-matrix-iv) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0657-robot-return-to-origin) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2299-merge-nodes-in-between-zeros) |
