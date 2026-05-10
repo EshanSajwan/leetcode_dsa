@@ -10,9 +10,9 @@ class Solution {
             left++;
             for(int i = left ; i <= right ; i++) al.add(grid[bottom][i]);
             bottom--;
-            if(left <= right) for(int i = bottom ; i >= top ; i--) al.add(grid[i][right]);
+            for(int i = bottom ; i >= top ; i--) al.add(grid[i][right]);
             right--;
-            if(top <= bottom) for(int i = right ; i >= left ; i--) al.add(grid[top][i]);
+            for(int i = right ; i >= left ; i--) al.add(grid[top][i]);
             top++;
 
             int size = al.size() ;
@@ -30,12 +30,12 @@ class Solution {
                 index++; index %= size;
             }
             bottomX--; 
-            if(leftX <= rightX) for(int i = bottomX ; i >= topX ; i--) {
+            for(int i = bottomX ; i >= topX ; i--) {
                 mat[i][rightX] = al.get(index);
                 index++; index %= size;
             }
             rightX--;
-            if(topX <= bottomX) for(int i = rightX ; i >= leftX ; i--) {
+            for(int i = rightX ; i >= leftX ; i--) {
                 mat[topX][i] = al.get(index);
                 index++; index %= size;
             }
