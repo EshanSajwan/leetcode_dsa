@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1154-day-of-the-year) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2514-count-anagrams](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2514-count-anagrams) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3783-mirror-distance-of-an-integer](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3783-mirror-distance-of-an-integer) |
 ## Binary Search
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3225-maximum-score-from-grid-operations](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3225-maximum-score-from-grid-operations) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3583-count-special-triplets](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3583-count-special-triplets) |
