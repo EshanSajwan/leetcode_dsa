@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1143-longest-common-subsequence) |
 | [1154-day-of-the-year](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1154-day-of-the-year) |
 | [1405-longest-happy-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1405-longest-happy-string) |
+| [1871-jump-game-vii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1871-jump-game-vii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2129-capitalize-the-title](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2129-capitalize-the-title) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1603-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1732-find-the-highest-altitude) |
+| [1871-jump-game-vii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1871-jump-game-vii) |
 | [2121-intervals-between-identical-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2121-intervals-between-identical-elements) |
 | [2615-sum-of-distances](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2615-sum-of-distances) |
 | [3225-maximum-score-from-grid-operations](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3225-maximum-score-from-grid-operations) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0643-maximum-average-subarray-i) |
+| [1871-jump-game-vii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1871-jump-game-vii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1871-jump-game-vii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1871-jump-game-vii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
