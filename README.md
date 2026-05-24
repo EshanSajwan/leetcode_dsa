@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2368-reachable-nodes-with-restrictions](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2615-sum-of-distances](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2737-row-with-maximum-ones](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2737-row-with-maximum-ones) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2368-reachable-nodes-with-restrictions](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2514-count-anagrams](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2514-count-anagrams) |
 | [2615-sum-of-distances](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0980-unique-paths-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2595-number-of-even-and-odd-bits](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2595-number-of-even-and-odd-bits) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Binary Search Tree
 |  |
 | ------- |
