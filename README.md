@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1154-day-of-the-year) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2514-count-anagrams](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2514-count-anagrams) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3270-find-the-key-of-the-numbers](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3270-find-the-key-of-the-numbers) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2585-delete-greatest-value-in-each-row) |
