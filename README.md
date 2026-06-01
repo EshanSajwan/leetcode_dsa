@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-escape-a-large-maze](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1036-escape-a-large-maze) |
 | [1048-longest-string-chain](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1048-longest-string-chain) |
 | [1207-unique-number-of-occurrences](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1207-unique-number-of-occurrences) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [2121-intervals-between-identical-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2121-intervals-between-identical-elements) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0894-all-possible-full-binary-trees](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0894-all-possible-full-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1020-number-of-enclaves) |
 | [1036-escape-a-large-maze](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1036-escape-a-large-maze) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1306-jump-game-iii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1306-jump-game-iii) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1020-number-of-enclaves) |
 | [1036-escape-a-large-maze](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1036-escape-a-large-maze) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1306-jump-game-iii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1306-jump-game-iii) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -540,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0894-all-possible-full-binary-trees](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0894-all-possible-full-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -709,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0303-range-sum-query-immutable) |
 | [0384-shuffle-an-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0384-shuffle-an-array) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Geometry
 |  |
 | ------- |
