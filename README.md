@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0648-replace-words) |
+| [0661-image-smoother](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0661-image-smoother) |
 | [0690-employee-importance](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0566-reshape-the-matrix) |
+| [0661-image-smoother](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0661-image-smoother) |
 | [0695-max-area-of-island](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0695-max-area-of-island) |
 | [0766-toeplitz-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0766-toeplitz-matrix) |
 | [0827-making-a-large-island](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0827-making-a-large-island) |
