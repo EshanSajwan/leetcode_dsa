@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3223-minimum-length-of-string-after-operations) |
+| [3692-majority-frequency-characters](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3692-majority-frequency-characters) |
 ## Array
 |  |
 | ------- |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3583-count-special-triplets](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3583-count-special-triplets) |
+| [3692-majority-frequency-characters](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3692-majority-frequency-characters) |
 | [3799-unique-3-digit-even-numbers](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3799-unique-3-digit-even-numbers) |
 ## Counting
 |  |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3223-minimum-length-of-string-after-operations](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3583-count-special-triplets](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3583-count-special-triplets) |
+| [3692-majority-frequency-characters](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3692-majority-frequency-characters) |
 ## Matrix
 |  |
 | ------- |
