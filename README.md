@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0481-magical-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0516-longest-palindromic-subsequence) |
+| [0535-encode-and-decode-tinyurl](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0535-encode-and-decode-tinyurl) |
 | [0537-complex-number-multiplication](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0537-complex-number-multiplication) |
 | [0551-student-attendance-record-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0264-ugly-number-ii) |
 | [0454-4sum-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0454-4sum-ii) |
+| [0535-encode-and-decode-tinyurl](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0535-encode-and-decode-tinyurl) |
 | [0648-replace-words](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0648-replace-words) |
 | [0690-employee-importance](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0721-accounts-merge) |
@@ -697,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0535-encode-and-decode-tinyurl) |
 | [0572-subtree-of-another-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0572-subtree-of-another-tree) |
 ## Divide and Conquer
 |  |
@@ -744,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0303-range-sum-query-immutable) |
 | [0384-shuffle-an-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0384-shuffle-an-array) |
+| [0535-encode-and-decode-tinyurl](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0535-encode-and-decode-tinyurl) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Geometry
 |  |
