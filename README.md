@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0507-perfect-number) |
 | [0537-complex-number-multiplication](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0537-complex-number-multiplication) |
+| [0633-sum-of-square-numbers](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0633-sum-of-square-numbers) |
 | [0780-reaching-points](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0780-reaching-points) |
 | [0789-escape-the-ghosts](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0789-escape-the-ghosts) |
 | [0812-largest-triangle-area](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0812-largest-triangle-area) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## String
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0287-find-the-duplicate-number) |
 | [0481-magical-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0481-magical-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0633-sum-of-square-numbers](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0633-sum-of-square-numbers) |
 | [0845-longest-mountain-in-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0845-longest-mountain-in-array) |
 | [1048-longest-string-chain](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1048-longest-string-chain) |
 ## Stack
