@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0368-largest-divisible-subset) |
 | [0384-shuffle-an-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0396-rotate-function) |
+| [0407-trapping-rain-water-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0454-4sum-ii) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0661-image-smoother) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0547-number-of-provinces) |
 | [0655-print-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0655-print-binary-tree) |
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0264-ugly-number-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0743-network-delay-time](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0767-reorganize-string) |
 | [1405-longest-happy-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1405-longest-happy-string) |
