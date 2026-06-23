@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-capitalize-the-title](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2129-capitalize-the-title) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2514-count-anagrams](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2514-count-anagrams) |
+| [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2233-maximum-product-after-k-increments](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2233-maximum-product-after-k-increments) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 ## Prefix Sum
 |  |
