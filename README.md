@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3210-find-the-encrypted-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3210-find-the-encrypted-string) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3692-majority-frequency-characters](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3692-majority-frequency-characters) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3746-minimum-string-length-after-balanced-removals) |
