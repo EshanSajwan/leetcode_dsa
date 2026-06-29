@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2165-smallest-value-of-the-rearranged-number) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2514-count-anagrams](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2514-count-anagrams) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3270-find-the-key-of-the-numbers](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3270-find-the-key-of-the-numbers) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2615-sum-of-distances](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
