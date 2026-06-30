@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1914-cyclically-rotating-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1914-cyclically-rotating-a-grid) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1991-find-the-middle-index-in-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1991-find-the-middle-index-in-array) |
 | [2017-grid-game](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2017-grid-game) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1914-cyclically-rotating-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1914-cyclically-rotating-a-grid) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2017-grid-game](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2017-grid-game) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1361-validate-binary-tree-nodes](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1361-validate-binary-tree-nodes) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Binary Tree
