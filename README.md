@@ -566,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
@@ -781,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1361-validate-binary-tree-nodes](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1361-validate-binary-tree-nodes) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Trie
 |  |
 | ------- |
@@ -797,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1361-validate-binary-tree-nodes](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1361-validate-binary-tree-nodes) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Design
 |  |
 | ------- |
