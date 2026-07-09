@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3225-maximum-score-from-grid-operations) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3290-maximum-multiplication-score](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3290-maximum-multiplication-score) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3583-count-special-triplets](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3583-count-special-triplets) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-delete-greatest-value-in-each-row](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2737-row-with-maximum-ones](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2737-row-with-maximum-ones) |
 | [3225-maximum-score-from-grid-operations](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3225-maximum-score-from-grid-operations) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Linked List
 |  |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -663,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2233-maximum-product-after-k-increments](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2233-maximum-product-after-k-increments) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2585-delete-greatest-value-in-each-row) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -748,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## String Matching
 |  |
 | ------- |
@@ -784,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Trie
 |  |
 | ------- |
