@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0892-surface-area-of-3d-shapes](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0892-surface-area-of-3d-shapes) |
 | [0931-minimum-falling-path-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0931-minimum-falling-path-sum) |
+| [0941-valid-mountain-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0941-valid-mountain-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0957-prison-cells-after-n-days](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0957-prison-cells-after-n-days) |
 | [0980-unique-paths-iii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0980-unique-paths-iii) |
