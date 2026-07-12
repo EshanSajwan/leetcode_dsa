@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0542-01-matrix) |
+| [0554-brick-wall](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0554-brick-wall) |
 | [0566-reshape-the-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0648-replace-words) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0264-ugly-number-ii) |
 | [0454-4sum-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0454-4sum-ii) |
 | [0535-encode-and-decode-tinyurl](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0535-encode-and-decode-tinyurl) |
+| [0554-brick-wall](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0554-brick-wall) |
 | [0648-replace-words](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0648-replace-words) |
 | [0690-employee-importance](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0721-accounts-merge) |
