@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1048-longest-string-chain) |
 | [1207-unique-number-of-occurrences](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2121-intervals-between-identical-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2121-intervals-between-identical-elements) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1361-validate-binary-tree-nodes](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1361-validate-binary-tree-nodes) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2368-reachable-nodes-with-restrictions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1361-validate-binary-tree-nodes](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1361-validate-binary-tree-nodes) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1361-validate-binary-tree-nodes](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1361-validate-binary-tree-nodes) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2368-reachable-nodes-with-restrictions) |
