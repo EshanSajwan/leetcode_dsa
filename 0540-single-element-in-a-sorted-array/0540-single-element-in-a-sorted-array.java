@@ -1,27 +1,19 @@
 class Solution {
     public int singleNonDuplicate(int[] nums) {
-        if(nums.length == 1) return nums[0];
-        int n = nums.length , l = 0 ,  r = nums.length -1;
-        return split(nums , n , l , r);
-    }
-    int split(int[] nums , int n , int l , int r){
-        if( l == r)// single part
-        {
-            if(l != 0 && r != n-1){ // not edge element
-                if(nums[l] != nums[l-1] && nums[l] != nums[l+1]) return nums[l];
-                else return 0;
-            } else { // edge element
-                if( l == 0){
-                    if(nums[l] != nums[l+1]) return nums[l];
-                    else return 0 ;
-                } else{
-                    if(nums[l] != nums[l-1]) return nums[l];
-                    else return 0 ;
-                }
-            }
+        int n = nums.length;
+        if(n == 1) return nums[0];
+        if(nums[0] != nums[1]) return nums[0];
+        if(nums[n - 2] != nums[n - 1]) return nums[n - 1];
+        int i = 0 , j = n - 1;
+        while(i <= j){
+            int mid = i + ( j - i )/ 2;
+            if(nums[mid - 1] != nums[mid] && nums[mid] != nums[mid + 1]) return nums[mid];
+
+            if( (mid % 2 == 0 && nums[mid] == nums[mid + 1]) || 
+                (mid % 2 == 1 && nums[mid] == nums[mid - 1])    ) i = mid + 1;
+            
+            else  j = mid - 1;
         }
-        int mid = (l + r) / 2;
-        //l to mid and mid+1 to r
-        return split(nums , n , l , mid) + split(nums , n , mid+1 , r);
+        return -1; // UNREACHABLE
     }
 }
