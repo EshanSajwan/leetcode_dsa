@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0819-most-common-word) |
 | [0880-decoded-string-at-index](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0880-decoded-string-at-index) |
 | [1048-longest-string-chain](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1048-longest-string-chain) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1143-longest-common-subsequence) |
 | [1154-day-of-the-year](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1154-day-of-the-year) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0757-set-intersection-size-at-least-two](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0757-set-intersection-size-at-least-two) |
 | [0767-reorganize-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0767-reorganize-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1405-longest-happy-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1405-longest-happy-string) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0402-remove-k-digits) |
 | [0880-decoded-string-at-index](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0880-decoded-string-at-index) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Tree
@@ -797,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0402-remove-k-digits) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Graph Theory
 |  |
 | ------- |
