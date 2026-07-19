@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
 |  |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1470-shuffle-the-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1470-shuffle-the-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1603-running-sum-of-1d-array) |
