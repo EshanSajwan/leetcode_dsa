@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0407-trapping-rain-water-ii) |
+| [0410-split-array-largest-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0454-4sum-ii) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0324-wiggle-sort-ii) |
 | [0402-remove-k-digits](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0410-split-array-largest-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0757-set-intersection-size-at-least-two](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0757-set-intersection-size-at-least-two) |
 | [0767-reorganize-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0767-reorganize-string) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1603-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1732-find-the-highest-altitude) |
@@ -450,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0396-rotate-function) |
+| [0410-split-array-largest-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0486-predict-the-winner) |
