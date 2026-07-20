@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-escape-a-large-maze](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1036-escape-a-large-maze) |
 | [1048-longest-string-chain](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1048-longest-string-chain) |
 | [1207-unique-number-of-occurrences](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1207-unique-number-of-occurrences) |
+| [1254-number-of-closed-islands](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0980-unique-paths-iii) |
 | [1020-number-of-enclaves](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1020-number-of-enclaves) |
 | [1036-escape-a-large-maze](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1036-escape-a-large-maze) |
+| [1254-number-of-closed-islands](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1306-jump-game-iii) |
@@ -630,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1020-number-of-enclaves) |
 | [1036-escape-a-large-maze](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1036-escape-a-large-maze) |
+| [1254-number-of-closed-islands](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1267-count-servers-that-communicate) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -842,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1267-count-servers-that-communicate) |
 | [1361-validate-binary-tree-nodes](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1361-validate-binary-tree-nodes) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
