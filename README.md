@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2165-smallest-value-of-the-rearranged-number) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2514-count-anagrams](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2514-count-anagrams) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1871-jump-game-vii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3225-maximum-score-from-grid-operations) |
@@ -758,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0062-unique-paths) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2514-count-anagrams](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2514-count-anagrams) |
 ## Memoization
 |  |
