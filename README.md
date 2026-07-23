@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2498-frog-jump-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2498-frog-jump-ii) |
 ## String
 |  |
 | ------- |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2498-frog-jump-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2498-frog-jump-ii) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2233-maximum-product-after-k-increments](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2233-maximum-product-after-k-increments) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2498-frog-jump-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2498-frog-jump-ii) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 ## Prefix Sum
