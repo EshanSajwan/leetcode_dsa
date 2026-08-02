@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2129-capitalize-the-title](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2129-capitalize-the-title) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2514-count-anagrams](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2514-count-anagrams) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2121-intervals-between-identical-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2121-intervals-between-identical-elements) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2121-intervals-between-identical-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2121-intervals-between-identical-elements) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0767-reorganize-string) |
 | [0819-most-common-word](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0819-most-common-word) |
 | [1267-count-servers-that-communicate](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1267-count-servers-that-communicate) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2514-count-anagrams](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2514-count-anagrams) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
