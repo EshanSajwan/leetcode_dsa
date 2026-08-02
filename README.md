@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1154-day-of-the-year) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1673-find-the-most-competitive-subsequence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1732-find-the-highest-altitude](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1732-find-the-highest-altitude) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1914-cyclically-rotating-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1914-cyclically-rotating-a-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0845-longest-mountain-in-array) |
 | [1291-sequential-digits](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1291-sequential-digits) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -757,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0980-unique-paths-iii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -768,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-prison-cells-after-n-days](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0957-prison-cells-after-n-days) |
 | [0980-unique-paths-iii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0980-unique-paths-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2595-number-of-even-and-odd-bits](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2595-number-of-even-and-odd-bits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Binary Search Tree
@@ -781,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0062-unique-paths) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2514-count-anagrams](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2514-count-anagrams) |
 ## Memoization
