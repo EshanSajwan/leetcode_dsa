@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0877-stone-game) |
 | [0892-surface-area-of-3d-shapes](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0892-surface-area-of-3d-shapes) |
 | [0957-prison-cells-after-n-days](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0957-prison-cells-after-n-days) |
+| [0989-add-to-array-form-of-integer](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0989-add-to-array-form-of-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1137-n-th-tribonacci-number](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1154-day-of-the-year) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0957-prison-cells-after-n-days](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0957-prison-cells-after-n-days) |
 | [0980-unique-paths-iii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0980-unique-paths-iii) |
+| [0989-add-to-array-form-of-integer](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0989-add-to-array-form-of-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1020-number-of-enclaves](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1020-number-of-enclaves) |
 | [1036-escape-a-large-maze](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1036-escape-a-large-maze) |
