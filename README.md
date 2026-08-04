@@ -947,4 +947,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
