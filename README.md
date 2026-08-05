@@ -664,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
@@ -705,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2368-reachable-nodes-with-restrictions](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -899,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2368-reachable-nodes-with-restrictions](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3310-remove-methods-from-project) |
 ## Trie
 |  |
 | ------- |
