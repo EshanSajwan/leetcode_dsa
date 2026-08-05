@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2121-intervals-between-identical-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2121-intervals-between-identical-elements) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0643-maximum-average-subarray-i) |
 | [1871-jump-game-vii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1871-jump-game-vii) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [3206-alternating-groups-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3206-alternating-groups-i) |
 ## Dynamic Programming
 |  |
