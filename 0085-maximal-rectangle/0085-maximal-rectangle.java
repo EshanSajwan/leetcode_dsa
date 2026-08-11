@@ -3,7 +3,7 @@ class Solution {
         int[][] histo = new int[matrix.length + 1][matrix[0].length];
         for(int i = 1 ; i <= matrix.length ; i++){
             for(int j = 0 ; j < matrix[0].length ; j++){
-                if(matrix[i - 1][j] == '1'){
+                if(matrix[i - 1][j] == 49){
                     histo[i][j] = histo[i - 1][j] + 1;
                 }
             }
