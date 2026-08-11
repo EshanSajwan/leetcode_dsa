@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2670-find-the-distinct-difference-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2670-find-the-distinct-difference-array) |
 | [2737-row-with-maximum-ones](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2737-row-with-maximum-ones) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3206-alternating-groups-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3206-alternating-groups-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2670-find-the-distinct-difference-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2670-find-the-distinct-difference-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -778,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
