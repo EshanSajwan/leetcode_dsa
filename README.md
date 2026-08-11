@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0135-candy) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0394-decode-string) |
@@ -916,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1005,4 +1008,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0278-first-bad-version) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
