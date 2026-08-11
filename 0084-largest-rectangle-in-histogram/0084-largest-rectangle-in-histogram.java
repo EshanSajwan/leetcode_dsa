@@ -1,30 +1,20 @@
 class Solution {
-    Stack<Integer> stack ;
     public int largestRectangleArea(int[] heights) {
-        int[] nse = findNextSmallerEl(heights) , pse = findPrevSmallerEl(heights);
+        Stack<Integer> stack = new Stack<>();
         int ans = 0;
-        for(int i = 0; i < heights.length ; i++)
-            ans = Math.max(ans , heights[i] * (nse[i] - pse[i] - 1));
-        return ans;
-    }
-    private int[] findNextSmallerEl(int arr[]){
-        stack = new Stack<>();
-        int nse[] = new int[arr.length];
-        for(int i = arr.length - 1 ; i > -1 ; i--){
-            while(!stack.isEmpty() && arr[stack.peek()] >= arr[i]) stack.pop();
-            nse[i] = stack.isEmpty() ? arr.length : stack.peek();
+        for(int i = 0 ; i < heights.length ; i++){
+            while(!stack.isEmpty() && heights[i] < heights[stack.peek()]){
+                int ns = i , element = heights[stack.pop()];
+                int pse = stack.isEmpty() ? -1 : stack.peek();
+                ans = Math.max( ans , element * (ns - pse -1));
+            }
             stack.push(i);
         }
-        return nse;
-    }
-    private int[] findPrevSmallerEl(int[] arr){
-        stack = new Stack<>();
-        int[] pse = new int[arr.length];
-        for(int i = 0 ; i < arr.length ; i++){
-            while(!stack.isEmpty() && arr[stack.peek()] >= arr[i]) stack.pop();
-            pse[i] = stack.isEmpty() ? -1 : stack.peek();
-            stack.push(i); 
+        while(!stack.isEmpty()){
+            int element = heights[stack.pop()];
+            int pse = stack.isEmpty() ? -1 : stack.peek();
+            ans = Math.max( ans , element * (heights.length - pse -1));
         }
-        return pse;
+        return ans;
     }
 }
