@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3693-climbing-stairs-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3693-climbing-stairs-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3745-maximize-expression-of-three-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3745-maximize-expression-of-three-elements) |
 | [3799-unique-3-digit-even-numbers](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3799-unique-3-digit-even-numbers) |
 | [3861-minimum-capacity-box](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3861-minimum-capacity-box) |
 | [4041-climbing-stairs-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/4041-climbing-stairs-ii) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-frog-jump-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2498-frog-jump-ii) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
+| [3745-maximize-expression-of-three-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3745-maximize-expression-of-three-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3745-maximize-expression-of-three-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3745-maximize-expression-of-three-elements) |
 | [3799-unique-3-digit-even-numbers](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3799-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
@@ -793,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3745-maximize-expression-of-three-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3745-maximize-expression-of-three-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
