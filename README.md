@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3583-count-special-triplets) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3693-climbing-stairs-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3693-climbing-stairs-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3745-maximize-expression-of-three-elements) |
 | [3799-unique-3-digit-even-numbers](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3799-unique-3-digit-even-numbers) |
@@ -843,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2595-number-of-even-and-odd-bits](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2595-number-of-even-and-odd-bits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search Tree
 |  |
 | ------- |
