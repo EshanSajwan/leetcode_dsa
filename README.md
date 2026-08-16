@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1143-longest-common-subsequence) |
 | [1154-day-of-the-year](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1154-day-of-the-year) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1405-longest-happy-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1405-longest-happy-string) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1451-rearrange-words-in-a-sentence) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1020-number-of-enclaves) |
 | [1036-escape-a-large-maze](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1036-escape-a-large-maze) |
 | [1048-longest-string-chain](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1048-longest-string-chain) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1207-unique-number-of-occurrences](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1254-number-of-closed-islands](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1254-number-of-closed-islands) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1036-escape-a-large-maze](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1036-escape-a-large-maze) |
 | [1048-longest-string-chain](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1048-longest-string-chain) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1207-unique-number-of-occurrences](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -787,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1048-longest-string-chain) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1340-jump-game-v](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1340-jump-game-v) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
