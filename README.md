@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0133-clone-graph) |
+| [0146-lru-cache](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0242-valid-anagram) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0148-sort-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2326-spiral-matrix-iv](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2326-spiral-matrix-iv) |
@@ -968,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0303-range-sum-query-immutable) |
 | [0384-shuffle-an-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0384-shuffle-an-array) |
@@ -1024,4 +1027,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0084-largest-rectangle-in-histogram) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
