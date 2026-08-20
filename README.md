@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1871-jump-game-vii) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2027-minimum-moves-to-convert-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2027-minimum-moves-to-convert-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1563-stone-game-v) |
 | [1871-jump-game-vii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1871-jump-game-vii) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -860,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0980-unique-paths-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -873,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0980-unique-paths-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2595-number-of-even-and-odd-bits](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2595-number-of-even-and-odd-bits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -1071,4 +1075,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0460-lfu-cache) |
+## Bitmask
+|  |
+| ------- |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 <!---LeetCode Topics End-->
