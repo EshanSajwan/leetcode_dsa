@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2514-count-anagrams](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2514-count-anagrams) |
 | [2544-alternating-digit-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2544-alternating-digit-sum) |
+| [2748-number-of-beautiful-pairs](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2748-number-of-beautiful-pairs) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3270-find-the-key-of-the-numbers](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3270-find-the-key-of-the-numbers) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2670-find-the-distinct-difference-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2670-find-the-distinct-difference-array) |
 | [2737-row-with-maximum-ones](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2737-row-with-maximum-ones) |
+| [2748-number-of-beautiful-pairs](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2748-number-of-beautiful-pairs) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2670-find-the-distinct-difference-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2670-find-the-distinct-difference-array) |
+| [2748-number-of-beautiful-pairs](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2748-number-of-beautiful-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2514-count-anagrams](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2514-count-anagrams) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2748-number-of-beautiful-pairs](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2748-number-of-beautiful-pairs) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3238-find-the-number-of-winning-players](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3238-find-the-number-of-winning-players) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -1042,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2748-number-of-beautiful-pairs](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2748-number-of-beautiful-pairs) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Segment Tree
 |  |
