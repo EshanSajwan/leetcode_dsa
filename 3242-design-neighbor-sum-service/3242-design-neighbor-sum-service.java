@@ -14,22 +14,22 @@ class NeighborSum {
     }
     
     public int adjacentSum(int value) {
-        int a = 0 , b = 0 , c = 0 , d = 0 , i = pos[value][0] , j = pos[value][1];
-        if(j + 1 < grid.length) a = grid[i][j + 1];
-        if(i + 1 < grid.length) b = grid[i + 1][j];
-        if(j - 1 > -1) c = grid[i][j - 1];
-        if(i - 1 > -1) d = grid[i - 1][j];
-        return a + b + c + d;
+        int sum = 0 , i = pos[value][0] , j = pos[value][1];
+        if(j + 1 < grid.length) sum += grid[i][j + 1];
+        if(i + 1 < grid.length) sum += grid[i + 1][j];
+        if(j - 1 > -1) sum += grid[i][j - 1];
+        if(i - 1 > -1) sum += grid[i - 1][j];
+        return sum ;
 
     }
     
     public int diagonalSum(int value) {
-        int a = 0 , b = 0 , c = 0 , d = 0 , i = pos[value][0] , j = pos[value][1];
-        if(j + 1 < grid.length && i - 1 > -1) a = grid[i - 1][j + 1];
-        if(i + 1 < grid.length && j + 1 < grid.length) b = grid[i + 1][j + 1];
-        if(j - 1 > -1 && i + 1 < grid.length) c = grid[i + 1][j - 1];
-        if(i - 1 > -1 && j - 1 > -1) d = grid[i - 1][j - 1];
-        return a + b + c + d;
+        int sum = 0 , i = pos[value][0] , j = pos[value][1];
+        if(j + 1 < grid.length && i - 1 > -1) sum += grid[i - 1][j + 1];
+        if(i + 1 < grid.length && j + 1 < grid.length) sum += grid[i + 1][j + 1];
+        if(j - 1 > -1 && i + 1 < grid.length) sum += grid[i + 1][j - 1];
+        if(i - 1 > -1 && j - 1 > -1) sum += grid[i - 1][j - 1];
+        return sum ;
     }
 }
 
