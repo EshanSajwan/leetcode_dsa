@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1306-jump-game-iii) |
 | [1314-matrix-block-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1314-matrix-block-sum) |
+| [1338-reduce-array-size-to-the-half](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1338-reduce-array-size-to-the-half) |
 | [1340-jump-game-v](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1340-jump-game-v) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0765-couples-holding-hands](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0765-couples-holding-hands) |
 | [0767-reorganize-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1338-reduce-array-size-to-the-half](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1338-reduce-array-size-to-the-half) |
 | [1405-longest-happy-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1405-longest-happy-string) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1207-unique-number-of-occurrences](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1338-reduce-array-size-to-the-half](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1338-reduce-array-size-to-the-half) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2121-intervals-between-identical-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2121-intervals-between-identical-elements) |
@@ -838,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1048-longest-string-chain) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1338-reduce-array-size-to-the-half](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1338-reduce-array-size-to-the-half) |
 | [1340-jump-game-v](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1340-jump-game-v) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -862,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0658-find-k-closest-elements) |
 | [0743-network-delay-time](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0767-reorganize-string) |
+| [1338-reduce-array-size-to-the-half](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1338-reduce-array-size-to-the-half) |
 | [1405-longest-happy-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1405-longest-happy-string) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2233-maximum-product-after-k-increments](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2233-maximum-product-after-k-increments) |
