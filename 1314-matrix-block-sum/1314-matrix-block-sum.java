@@ -18,15 +18,15 @@ class Solution {
         }
         for(int i = 0 ; i < m ; i++){
             for(int j = 0 ; j < n ; j++){
-                int a = i + k , b = j + k , sum = 0;
-                while(a >= m || b >= n){
-                    if(a >= m && b >= n){
-                        a--;
-                        b--;
-                    }
-                    else if(a >= m) a--;
-                    else b--;
-                }
+                int a = Math.min(m- 1 , i + k) , b = Math.min(n - 1, j + k) , sum = 0;
+                // while(a >= m || b >= n){
+                //     if(a >= m && b >= n){
+                //         a--;
+                //         b--;
+                //     }
+                //     else if(a >= m) a--;
+                //     else b--;
+                // }
                 sum += mat[a][b];
                 if(j - k - 1 > -1) sum -= mat[a][j - k - 1];
                 if(i - k - 1 > -1) sum -= mat[i - k - 1][b];
