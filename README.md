@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2737-row-with-maximum-ones](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2737-row-with-maximum-ones) |
 | [2748-number-of-beautiful-pairs](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2748-number-of-beautiful-pairs) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3206-alternating-groups-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3206-alternating-groups-i) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2670-find-the-distinct-difference-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2670-find-the-distinct-difference-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2748-number-of-beautiful-pairs) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -916,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2595-number-of-even-and-odd-bits](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2595-number-of-even-and-odd-bits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search Tree
 |  |
