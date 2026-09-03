@@ -1,15 +1,13 @@
 class Solution {
     public int minOperations(List<Integer> nums, int k) {
         int[] elements = new int[k + 1];
+        int count = 0;
         for(int i = nums.size() - 1 ; i > -1 ; i--){
-            if(nums.get(i) > k) continue;
+            if(nums.get(i) > k || elements[nums.get(i)] == 1) continue;
+            count++;
             elements[nums.get(i)] = 1;
-            if( check(elements) ) return nums.size() - i;
+            if( count == k ) return nums.size() - i;
         }
         return nums.size();
-    }
-    private boolean check(int[] nums){
-        for(int i = 1 ; i < nums.length ; i++) if(nums[i] == 0) return false;
-        return true;
     }
 }
