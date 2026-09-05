@@ -1,15 +1,16 @@
 class Solution {
-    Long[] dp;
+    long[] dp;
     int mod = 1_000_000_007;
     public int numDecodings(String s) {
-        dp = new Long[s.length()];
+        dp = new long[s.length()];
+        Arrays.fill(dp , -1);
         return (int)solve( 0 , s );
         // return 1;
     }
     private long solve( int i , String s){
         if(i == s.length()) return 1;
         if(s.charAt(i) == '0') return 0;
-        if(dp[i] != null) return dp[i];
+        if(dp[i] != -1) return dp[i];
         long a = 0 , b = 0 , c = 0 , d = 0 , e = 0 , f = 0 , g = 0;
         if(s.charAt(i) == '*'){
             d = (9 * (solve(i + 1 , s) % mod)) % mod;
