@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1550-three-consecutive-odds](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1550-three-consecutive-odds) |
 | [1563-stone-game-v](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1603-running-sum-of-1d-array) |
