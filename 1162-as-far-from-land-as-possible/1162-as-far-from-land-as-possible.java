@@ -1,7 +1,8 @@
 class Solution {
     public int maxDistance(int[][] grid) {
         int n = grid.length;
-        PriorityQueue<int[]> pq = new PriorityQueue<>((a , b) -> a[0] - b[0]);
+        // PriorityQueue<int[]> pq = new PriorityQueue<>((a , b) -> a[0] - b[0]);
+        Queue<int[]> pq = new LinkedList<>();
         for(int i = 0 ; i < n ; i++){
             for(int j = 0 ; j < n ; j++){
                 if(grid[i][j] == 1) pq.offer( new int[]{0 , i , j} );
