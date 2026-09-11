@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0542-01-matrix) |
 | [0554-brick-wall](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0554-brick-wall) |
+| [0565-array-nesting](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0565-array-nesting) |
 | [0566-reshape-the-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0566-reshape-the-matrix) |
 | [0641-design-circular-deque](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0643-maximum-average-subarray-i) |
@@ -764,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0449-serialize-and-deserialize-bst](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0449-serialize-and-deserialize-bst) |
 | [0547-number-of-provinces](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0547-number-of-provinces) |
+| [0565-array-nesting](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0565-array-nesting) |
 | [0572-subtree-of-another-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0606-construct-string-from-binary-tree) |
 | [0655-print-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0655-print-binary-tree) |
