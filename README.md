@@ -1191,4 +1191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1029-two-city-scheduling) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
