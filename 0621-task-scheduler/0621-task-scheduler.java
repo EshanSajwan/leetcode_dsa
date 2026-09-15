@@ -5,9 +5,9 @@ class Solution {
          //[ id , count , prev]
         PriorityQueue<int[]> pq = new PriorityQueue<>((a , b) -> {
             if(a[1] == b[1]){
-                return Integer.compare(a[2] , b[2]);
+                return a[2] - b[2];
             }
-            return Integer.compare(b[1] , a[1]);
+            return b[1] - a[1];
         } );
         for(int i = 0 ; i < 26 ; i++) {
             if(freq[i] > 0) pq.offer( new int[]{i , freq[i] , -1});
