@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2514-count-anagrams](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2514-count-anagrams) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
+| [2788-split-strings-by-separator](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2788-split-strings-by-separator) |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2737-row-with-maximum-ones](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2737-row-with-maximum-ones) |
 | [2748-number-of-beautiful-pairs](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2748-number-of-beautiful-pairs) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2788-split-strings-by-separator](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2788-split-strings-by-separator) |
 | [2826-sorting-three-groups](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2826-sorting-three-groups) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
