@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0554-brick-wall) |
 | [0565-array-nesting](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0565-array-nesting) |
 | [0566-reshape-the-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0566-reshape-the-matrix) |
+| [0621-task-scheduler](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0621-task-scheduler) |
 | [0641-design-circular-deque](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0645-set-mismatch) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0324-wiggle-sort-ii) |
 | [0402-remove-k-digits](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0757-set-intersection-size-at-least-two](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0757-set-intersection-size-at-least-two) |
 | [0765-couples-holding-hands](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0765-couples-holding-hands) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0460-lfu-cache) |
 | [0535-encode-and-decode-tinyurl](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0535-encode-and-decode-tinyurl) |
 | [0554-brick-wall](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0554-brick-wall) |
+| [0621-task-scheduler](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0676-implement-magic-dictionary) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0229-majority-element-ii) |
+| [0621-task-scheduler](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0767-reorganize-string) |
 | [0819-most-common-word](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0819-most-common-word) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1128-number-of-equivalent-domino-pairs) |
@@ -900,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0242-valid-anagram) |
 | [0324-wiggle-sort-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0324-wiggle-sort-ii) |
 | [0368-largest-divisible-subset](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0368-largest-divisible-subset) |
+| [0621-task-scheduler](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0658-find-k-closest-elements) |
 | [0720-longest-word-in-dictionary](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0720-longest-word-in-dictionary) |
@@ -936,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0264-ugly-number-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0407-trapping-rain-water-ii) |
+| [0621-task-scheduler](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0658-find-k-closest-elements) |
 | [0743-network-delay-time](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0767-reorganize-string) |
