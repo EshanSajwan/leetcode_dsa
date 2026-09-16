@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-capitalize-the-title](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2129-capitalize-the-title) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2390-removing-stars-from-a-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2390-removing-stars-from-a-string) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2514-count-anagrams](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2514-count-anagrams) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2498-frog-jump-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2498-frog-jump-ii) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1267-count-servers-that-communicate) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2248-intersection-of-multiple-arrays](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2248-intersection-of-multiple-arrays) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2514-count-anagrams](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2514-count-anagrams) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2547-minimum-cost-to-split-an-array) |
@@ -1112,6 +1115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0676-implement-magic-dictionary](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0676-implement-magic-dictionary) |
 | [0720-longest-word-in-dictionary](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0720-longest-word-in-dictionary) |
 | [0792-number-of-matching-subsequences](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0792-number-of-matching-subsequences) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2416-sum-of-prefix-scores-of-strings) |
 ## Game Theory
 |  |
 | ------- |
