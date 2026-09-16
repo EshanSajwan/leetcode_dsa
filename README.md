@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0507-perfect-number) |
+| [0528-random-pick-with-weight](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0528-random-pick-with-weight) |
 | [0537-complex-number-multiplication](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0537-complex-number-multiplication) |
 | [0633-sum-of-square-numbers](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0633-sum-of-square-numbers) |
 | [0780-reaching-points](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0780-reaching-points) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0410-split-array-largest-sum) |
+| [0528-random-pick-with-weight](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0658-find-k-closest-elements) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0495-teemo-attacking) |
 | [0518-coin-change-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0518-coin-change-ii) |
+| [0528-random-pick-with-weight](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0542-01-matrix) |
 | [0554-brick-wall](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0554-brick-wall) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0410-split-array-largest-sum) |
+| [0528-random-pick-with-weight](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0528-random-pick-with-weight) |
 | [0724-find-pivot-index](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0724-find-pivot-index) |
 | [1314-matrix-block-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1314-matrix-block-sum) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -1151,6 +1155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0384-shuffle-an-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0398-random-pick-index) |
+| [0528-random-pick-with-weight](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0528-random-pick-with-weight) |
 ## Quickselect
 |  |
 | ------- |
