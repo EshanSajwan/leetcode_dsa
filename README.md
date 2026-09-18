@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3745-maximize-expression-of-three-elements) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3799-unique-3-digit-even-numbers](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3799-unique-3-digit-even-numbers) |
 | [3861-minimum-capacity-box](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3861-minimum-capacity-box) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -948,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-delete-greatest-value-in-each-row](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3745-maximize-expression-of-three-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3745-maximize-expression-of-three-elements) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
