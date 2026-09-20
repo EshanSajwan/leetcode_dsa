@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1486-xor-operation-in-an-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1486-xor-operation-in-an-array) |
 | [1563-stone-game-v](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1563-stone-game-v) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -997,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-prison-cells-after-n-days](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0957-prison-cells-after-n-days) |
 | [0980-unique-paths-iii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0980-unique-paths-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1486-xor-operation-in-an-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1486-xor-operation-in-an-array) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
