@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0324-wiggle-sort-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0334-increasing-triplet-subsequence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0368-largest-divisible-subset) |
 | [0384-shuffle-an-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0396-rotate-function) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0324-wiggle-sort-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0621-task-scheduler) |
@@ -1238,4 +1240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0398-random-pick-index) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
