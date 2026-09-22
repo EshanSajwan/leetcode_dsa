@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3745-maximize-expression-of-three-elements) |
+| [3772-maximum-subgraph-score-in-a-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3772-maximum-subgraph-score-in-a-tree) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3799-unique-3-digit-even-numbers](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3799-unique-3-digit-even-numbers) |
 | [3861-minimum-capacity-box](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3861-minimum-capacity-box) |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3225-maximum-score-from-grid-operations) |
 | [3290-maximum-multiplication-score](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3290-maximum-multiplication-score) |
 | [3693-climbing-stairs-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3693-climbing-stairs-ii) |
+| [3772-maximum-subgraph-score-in-a-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3772-maximum-subgraph-score-in-a-tree) |
 | [4041-climbing-stairs-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/4041-climbing-stairs-ii) |
 ## Recursion
 |  |
@@ -788,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2368-reachable-nodes-with-restrictions](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3772-maximum-subgraph-score-in-a-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3772-maximum-subgraph-score-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -839,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3772-maximum-subgraph-score-in-a-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3772-maximum-subgraph-score-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
