@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3799-unique-3-digit-even-numbers](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3799-unique-3-digit-even-numbers) |
 | [3861-minimum-capacity-box](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3861-minimum-capacity-box) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3898-find-the-degree-of-each-vertex) |
+| [4015-weighted-sum-of-a-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/4015-weighted-sum-of-a-tree) |
 | [4041-climbing-stairs-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/4041-climbing-stairs-ii) |
 ## Greedy
 |  |
@@ -793,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3772-maximum-subgraph-score-in-a-tree) |
+| [4015-weighted-sum-of-a-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/4015-weighted-sum-of-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -846,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3310-remove-methods-from-project](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3772-maximum-subgraph-score-in-a-tree) |
+| [4015-weighted-sum-of-a-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/4015-weighted-sum-of-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
