@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0257-binary-tree-paths) |
 | [0318-maximum-product-of-word-lengths](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0318-maximum-product-of-word-lengths) |
+| [0388-longest-absolute-file-path](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0402-remove-k-digits) |
 | [0449-serialize-and-deserialize-bst](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0449-serialize-and-deserialize-bst) |
@@ -746,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0224-basic-calculator) |
+| [0388-longest-absolute-file-path](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0402-remove-k-digits) |
 | [0880-decoded-string-at-index](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0880-decoded-string-at-index) |
@@ -806,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0257-binary-tree-paths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0388-longest-absolute-file-path](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0388-longest-absolute-file-path) |
 | [0449-serialize-and-deserialize-bst](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0449-serialize-and-deserialize-bst) |
 | [0547-number-of-provinces](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0547-number-of-provinces) |
 | [0565-array-nesting](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0565-array-nesting) |
