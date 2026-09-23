@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2514-count-anagrams](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2514-count-anagrams) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2788-split-strings-by-separator](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2788-split-strings-by-separator) |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2670-find-the-distinct-difference-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2670-find-the-distinct-difference-array) |
 | [2706-buy-two-chocolates](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2706-buy-two-chocolates) |
 | [2737-row-with-maximum-ones](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2737-row-with-maximum-ones) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2748-number-of-beautiful-pairs](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2748-number-of-beautiful-pairs) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2788-split-strings-by-separator](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2788-split-strings-by-separator) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2670-find-the-distinct-difference-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2670-find-the-distinct-difference-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2748-number-of-beautiful-pairs](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2748-number-of-beautiful-pairs) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -612,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2390-removing-stars-from-a-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2390-removing-stars-from-a-string) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3242-design-neighbor-sum-service](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3242-design-neighbor-sum-service) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3354-make-array-elements-equal-to-zero) |
