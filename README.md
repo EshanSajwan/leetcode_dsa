@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1405-longest-happy-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1405-longest-happy-string) |
+| [1417-reformat-the-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1417-reformat-the-string) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
