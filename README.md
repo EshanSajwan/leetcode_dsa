@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1451-rearrange-words-in-a-sentence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
+| [1592-rearrange-spaces-between-words](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1592-rearrange-spaces-between-words) |
 | [1859-sorting-the-sentence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1859-sorting-the-sentence) |
 | [1871-jump-game-vii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1871-jump-game-vii) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1880-check-if-word-equals-summation-of-two-words) |
