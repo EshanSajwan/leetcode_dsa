@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0833-find-and-replace-in-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0833-find-and-replace-in-string) |
 | [0880-decoded-string-at-index](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0880-decoded-string-at-index) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1023-camelcase-matching](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1023-camelcase-matching) |
 | [1048-longest-string-chain](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1092-shortest-common-supersequence) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0989-add-to-array-form-of-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1020-number-of-enclaves](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1020-number-of-enclaves) |
+| [1023-camelcase-matching](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1023-camelcase-matching) |
 | [1029-two-city-scheduling](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1029-two-city-scheduling) |
 | [1036-escape-a-large-maze](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1036-escape-a-large-maze) |
 | [1048-longest-string-chain](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1048-longest-string-chain) |
@@ -752,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0658-find-k-closest-elements) |
 | [0845-longest-mountain-in-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0845-longest-mountain-in-array) |
+| [1023-camelcase-matching](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1023-camelcase-matching) |
 | [1048-longest-string-chain](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1048-longest-string-chain) |
 ## Stack
 |  |
@@ -1104,6 +1107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0572-subtree-of-another-tree) |
+| [1023-camelcase-matching](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1023-camelcase-matching) |
 ## Hash Function
 |  |
 | ------- |
@@ -1154,6 +1158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0676-implement-magic-dictionary](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0676-implement-magic-dictionary) |
 | [0720-longest-word-in-dictionary](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0720-longest-word-in-dictionary) |
 | [0792-number-of-matching-subsequences](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0792-number-of-matching-subsequences) |
+| [1023-camelcase-matching](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1023-camelcase-matching) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2416-sum-of-prefix-scores-of-strings) |
 ## Game Theory
 |  |
