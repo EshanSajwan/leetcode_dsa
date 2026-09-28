@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0819-most-common-word) |
 | [0833-find-and-replace-in-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0833-find-and-replace-in-string) |
 | [0880-decoded-string-at-index](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0880-decoded-string-at-index) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1048-longest-string-chain](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1092-shortest-common-supersequence) |
@@ -767,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0880-decoded-string-at-index](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0880-decoded-string-at-index) |
 | [0907-sum-of-subarray-minimums](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [0946-validate-stack-sequences](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0946-validate-stack-sequences) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1910-remove-all-occurrences-of-a-substring) |
