@@ -17,7 +17,9 @@ class Solution {
             if(e.getValue() == f){
                 if(ans == null) ans = e.getKey();
                 else{
-                    ans = lexiBaby(ans , e.getKey());
+                    // ans = lexiBaby(ans , e.getKey());
+                    int comp = ans.compareTo(e.getKey());
+                    if(comp > 0) ans = e.getKey();
                 }
             }
         }
