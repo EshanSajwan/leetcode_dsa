@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3210-find-the-encrypted-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3210-find-the-encrypted-string) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3223-minimum-length-of-string-after-operations) |
+| [3527-find-the-most-common-response](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3527-find-the-most-common-response) |
 | [3692-majority-frequency-characters](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3692-majority-frequency-characters) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Array
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3290-maximum-multiplication-score](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3290-maximum-multiplication-score) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3527-find-the-most-common-response](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3527-find-the-most-common-response) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3583-count-special-triplets](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3583-count-special-triplets) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3238-find-the-number-of-winning-players](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3238-find-the-number-of-winning-players) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3242-design-neighbor-sum-service](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3242-design-neighbor-sum-service) |
+| [3527-find-the-most-common-response](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3527-find-the-most-common-response) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3583-count-special-triplets](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3583-count-special-triplets) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3223-minimum-length-of-string-after-operations](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3238-find-the-number-of-winning-players](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3238-find-the-number-of-winning-players) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3527-find-the-most-common-response](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3527-find-the-most-common-response) |
 | [3583-count-special-triplets](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3583-count-special-triplets) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3692-majority-frequency-characters](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3692-majority-frequency-characters) |
