@@ -2,7 +2,8 @@ class Solution {
     Boolean[][][] dp;
     public boolean hasValidPath(char[][] grid) {
         dp = new Boolean[grid.length + grid[0].length][grid.length][grid[0].length];
-        if(grid[0][0] == '(')  return dfs(1 , 0 , 0 , grid.length , grid[0].length , grid);
+        if(grid[0][0] == '(' && grid[grid.length - 1][grid[0].length - 1] != '(')
+              return dfs(1 , 0 , 0 , grid.length , grid[0].length , grid);
         return false;
     }
     private boolean dfs(int x , int i , int j , int m , int n , char[][] grid ){
