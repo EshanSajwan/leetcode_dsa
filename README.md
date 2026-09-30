@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2498-frog-jump-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2498-frog-jump-ii) |
 | [2826-sorting-three-groups](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2826-sorting-three-groups) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## String
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2788-split-strings-by-separator](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2788-split-strings-by-separator) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -766,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0845-longest-mountain-in-array) |
 | [1023-camelcase-matching](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1023-camelcase-matching) |
 | [1048-longest-string-chain](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1048-longest-string-chain) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -1119,11 +1122,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0572-subtree-of-another-tree) |
 | [1023-camelcase-matching](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1023-camelcase-matching) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0535-encode-and-decode-tinyurl) |
 | [0572-subtree-of-another-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0572-subtree-of-another-tree) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1291,4 +1296,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Rolling Hash
+|  |
+| ------- |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+## Z Algorithm
+|  |
+| ------- |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 <!---LeetCode Topics End-->
