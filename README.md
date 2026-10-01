@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0724-find-pivot-index) |
+| [0740-delete-and-earn](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0757-set-intersection-size-at-least-two](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0757-set-intersection-size-at-least-two) |
 | [0766-toeplitz-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0766-toeplitz-matrix) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0690-employee-importance) |
 | [0720-longest-word-in-dictionary](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0721-accounts-merge) |
+| [0740-delete-and-earn](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0740-delete-and-earn) |
 | [0767-reorganize-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0767-reorganize-string) |
 | [0792-number-of-matching-subsequences](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0792-number-of-matching-subsequences) |
 | [0819-most-common-word](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0819-most-common-word) |
@@ -695,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0639-decode-ways-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0639-decode-ways-ii) |
 | [0647-palindromic-substrings](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0647-palindromic-substrings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0740-delete-and-earn](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0740-delete-and-earn) |
 | [0792-number-of-matching-subsequences](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0792-number-of-matching-subsequences) |
 | [0845-longest-mountain-in-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0877-stone-game) |
