@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0132-palindrome-partitioning-ii) |
 | [0179-largest-number](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0242-valid-anagram) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0229-majority-element-ii) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0407-trapping-rain-water-ii) |
@@ -1045,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0095-unique-binary-search-trees-ii) |
 | [0126-word-ladder-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0494-target-sum) |
@@ -1193,6 +1197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0212-word-search-ii) |
 | [0648-replace-words](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0676-implement-magic-dictionary) |
 | [0720-longest-word-in-dictionary](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0720-longest-word-in-dictionary) |
