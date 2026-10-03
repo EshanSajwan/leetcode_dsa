@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0032-longest-valid-parentheses](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0072-edit-distance) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0045-jump-game-ii) |
@@ -779,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0084-largest-rectangle-in-histogram) |
@@ -1312,6 +1315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0032-longest-valid-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Rolling Hash
 |  |
