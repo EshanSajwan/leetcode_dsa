@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0045-jump-game-ii) |
+| [0051-n-queens](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0059-spiral-matrix-ii) |
@@ -1036,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0051-n-queens](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0090-subsets-ii) |
@@ -1337,4 +1339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1042-flower-planting-with-no-adjacent](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1042-flower-planting-with-no-adjacent) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
