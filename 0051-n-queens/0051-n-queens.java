@@ -25,7 +25,7 @@ class Solution {
             return;
         }
         for(int i = 0 ; i < n ; i++){
-            if(i != col && possible(row + 1 , i , al)){
+            if(i != col && i - 1 != col && i + 1 != col && possible(row + 1 , i , al)){
                 al.get(row + 1)[i] = 'Q';
                 rani(row + 1 , i , al);
                 al.get(row + 1)[i] = '.';
