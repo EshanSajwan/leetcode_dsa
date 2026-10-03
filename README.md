@@ -1117,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0610-triangle-judgement) |
 | [1068-product-sales-analysis-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1148-article-views-i) |
+| [1683-invalid-tweets](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1683-invalid-tweets) |
 | [1873-calculate-special-bonus](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1873-calculate-special-bonus) |
 | [1965-employees-with-missing-information](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1965-employees-with-missing-information) |
 ## Topological Sort
