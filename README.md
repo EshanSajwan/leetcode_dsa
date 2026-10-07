@@ -1140,6 +1140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-calculate-special-bonus](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1873-calculate-special-bonus) |
 | [1934-confirmation-rate](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1934-confirmation-rate) |
 | [1965-employees-with-missing-information](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1965-employees-with-missing-information) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Topological Sort
 |  |
 | ------- |
