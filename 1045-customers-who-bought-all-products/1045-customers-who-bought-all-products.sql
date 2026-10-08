@@ -3,16 +3,13 @@
 -- fir isme product key ek tabe ki find kar ki distinct kitni hai 
 -- agar uska count = hai Product table ke count hai toh vo id utha le
 
--- with totalProducts as (
---     select count(product_key)
---     from Product
--- )
+with totalProducts as (
+    select count(product_key) as count
+    from Product
+)
 select c.customer_id
 from Customer as c
 cross join Product as p
 where c.product_key = p.product_key
 group by c.customer_id
-having COUNT(distinct c.product_key) = (
-    select count(product_key)
-    from Product
-);
+having COUNT(distinct c.product_key) = (select count from totalProducts);
