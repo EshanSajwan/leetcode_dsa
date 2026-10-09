@@ -1,5 +1,13 @@
 # Write your MySQL query statement below
-select max(salary) as SecondHighestSalary 
-from (select salary from employee
-where salary != (select max(salary) from employee)) as t;
-
+select salary as SecondHighestSalary
+from (
+    select 
+        id , 
+        salary ,
+        dense_rank() over( order by salary desc) as dRank
+    from Employee
+) as t
+where t.dRank = 2
+union all 
+select null
+limit 1;
