@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3783-mirror-distance-of-an-integer](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3783-mirror-distance-of-an-integer) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/EshanSajwan/leetcode_dsa/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3898-find-the-degree-of-each-vertex](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3898-find-the-degree-of-each-vertex) |
 | [4015-weighted-sum-of-a-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/4015-weighted-sum-of-a-tree) |
 | [4041-climbing-stairs-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/4041-climbing-stairs-ii) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/EshanSajwan/leetcode_dsa/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Greedy
 |  |
 | ------- |
