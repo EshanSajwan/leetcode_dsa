@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0827-making-a-large-island) |
 | [0833-find-and-replace-in-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0833-find-and-replace-in-string) |
 | [0845-longest-mountain-in-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0845-longest-mountain-in-array) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0892-surface-area-of-3d-shapes](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0892-surface-area-of-3d-shapes) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0757-set-intersection-size-at-least-two](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0757-set-intersection-size-at-least-two) |
 | [0765-couples-holding-hands](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0765-couples-holding-hands) |
 | [0767-reorganize-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0767-reorganize-string) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1029-two-city-scheduling](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1029-two-city-scheduling) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1338-reduce-array-size-to-the-half](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1338-reduce-array-size-to-the-half) |
@@ -715,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0740-delete-and-earn) |
 | [0792-number-of-matching-subsequences](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0792-number-of-matching-subsequences) |
 | [0845-longest-mountain-in-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0845-longest-mountain-in-array) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0877-stone-game) |
 | [0894-all-possible-full-binary-trees](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0894-all-possible-full-binary-trees) |
 | [0907-sum-of-subarray-minimums](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0907-sum-of-subarray-minimums) |
@@ -1041,6 +1044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0658-find-k-closest-elements) |
 | [0743-network-delay-time](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0767-reorganize-string) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1094-car-pooling](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1094-car-pooling) |
 | [1338-reduce-array-size-to-the-half](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1338-reduce-array-size-to-the-half) |
 | [1405-longest-happy-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1405-longest-happy-string) |
