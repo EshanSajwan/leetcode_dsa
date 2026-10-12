@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2788-split-strings-by-separator](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2788-split-strings-by-separator) |
 | [2810-faulty-keyboard](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2810-faulty-keyboard) |
+| [2942-find-words-containing-character](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2942-find-words-containing-character) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2826-sorting-three-groups](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2826-sorting-three-groups) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2923-find-champion-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2923-find-champion-i) |
+| [2942-find-words-containing-character](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2942-find-words-containing-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
