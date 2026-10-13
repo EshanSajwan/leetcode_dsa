@@ -481,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0264-ugly-number-ii) |
 | [0398-random-pick-index](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0398-random-pick-index) |
+| [0432-all-oone-data-structure](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0432-all-oone-data-structure) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0454-4sum-ii) |
 | [0460-lfu-cache](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0460-lfu-cache) |
@@ -630,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0148-sort-list) |
+| [0432-all-oone-data-structure](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0460-lfu-cache) |
 | [0641-design-circular-deque](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0641-design-circular-deque) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -1291,6 +1293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0303-range-sum-query-immutable) |
 | [0384-shuffle-an-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0384-shuffle-an-array) |
+| [0432-all-oone-data-structure](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0432-all-oone-data-structure) |
 | [0449-serialize-and-deserialize-bst](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0449-serialize-and-deserialize-bst) |
 | [0460-lfu-cache](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0460-lfu-cache) |
 | [0535-encode-and-decode-tinyurl](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0535-encode-and-decode-tinyurl) |
@@ -1359,6 +1362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0460-lfu-cache) |
 ## Bitmask
 |  |
