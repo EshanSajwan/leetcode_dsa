@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3783-mirror-distance-of-an-integer) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/EshanSajwan/leetcode_dsa/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Binary Search
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2706-buy-two-chocolates) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3745-maximize-expression-of-three-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3745-maximize-expression-of-three-elements) |
 ## Prefix Sum
 |  |
