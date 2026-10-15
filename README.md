@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3799-unique-3-digit-even-numbers](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3799-unique-3-digit-even-numbers) |
 | [3861-minimum-capacity-box](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3861-minimum-capacity-box) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 | [4015-weighted-sum-of-a-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/4015-weighted-sum-of-a-tree) |
 | [4041-climbing-stairs-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/4041-climbing-stairs-ii) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/EshanSajwan/leetcode_dsa/tree/master/4061-minimum-queen-moves-to-reach-target) |
@@ -762,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3290-maximum-multiplication-score](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3290-maximum-multiplication-score) |
 | [3693-climbing-stairs-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3693-climbing-stairs-ii) |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3772-maximum-subgraph-score-in-a-tree) |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 | [4041-climbing-stairs-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/4041-climbing-stairs-ii) |
 ## Recursion
 |  |
@@ -1067,6 +1069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-maximal-score-after-applying-k-operations](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Backtracking
 |  |
 | ------- |
@@ -1214,6 +1217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## String Matching
 |  |
 | ------- |
@@ -1264,6 +1268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3310-remove-methods-from-project) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Trie
 |  |
 | ------- |
