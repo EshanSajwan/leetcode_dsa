@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0648-replace-words) |
 | [0657-robot-return-to-origin](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0657-robot-return-to-origin) |
 | [0676-implement-magic-dictionary](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0676-implement-magic-dictionary) |
+| [0686-repeated-string-match](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0686-repeated-string-match) |
 | [0720-longest-word-in-dictionary](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0767-reorganize-string) |
@@ -1224,6 +1225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0572-subtree-of-another-tree) |
+| [0686-repeated-string-match](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0686-repeated-string-match) |
 | [1023-camelcase-matching](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1023-camelcase-matching) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Hash Function
@@ -1414,14 +1416,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Z Algorithm
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0686-repeated-string-match) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0686-repeated-string-match) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0686-repeated-string-match) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Graph Coloring
 |  |
