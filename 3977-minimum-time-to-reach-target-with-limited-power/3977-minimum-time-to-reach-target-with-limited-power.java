@@ -18,6 +18,9 @@ class Solution {
         pq.offer( new long[]{0 , source , power});
         while(!pq.isEmpty()){
             long[] curr = pq.poll();
+            if (ans[0] != -1 && curr[0] > ans[0]) {
+                break; // Ya seedha `return ans;`
+            }
             if(curr[1] == target){
                 if(ans[0] == -1 || ans[0] > curr[0]){
                     ans[0] = curr[0];
