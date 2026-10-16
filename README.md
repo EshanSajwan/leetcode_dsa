@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-frog-jump-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2498-frog-jump-ii) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2547-minimum-cost-to-split-an-array) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2304-minimum-path-cost-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2326-spiral-matrix-iv](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2326-spiral-matrix-iv) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2737-row-with-maximum-ones](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2737-row-with-maximum-ones) |
 | [2923-find-champion-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2923-find-champion-i) |
@@ -972,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -1070,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2233-maximum-product-after-k-increments](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2233-maximum-product-after-k-increments) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
@@ -1223,6 +1227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## String Matching
@@ -1273,6 +1278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3310-remove-methods-from-project) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3898-find-the-degree-of-each-vertex) |
