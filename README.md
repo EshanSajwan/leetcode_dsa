@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1914-cyclically-rotating-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1914-cyclically-rotating-a-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1991-find-the-middle-index-in-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2017-grid-game](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2017-grid-game) |
@@ -758,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1563-stone-game-v) |
 | [1871-jump-game-vii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1871-jump-game-vii) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2304-minimum-path-cost-in-a-grid) |
@@ -1279,6 +1281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0765-couples-holding-hands](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0765-couples-holding-hands) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1361-validate-binary-tree-nodes](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1361-validate-binary-tree-nodes) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -1460,4 +1463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 <!---LeetCode Topics End-->
