@@ -1226,6 +1226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3421-find-students-who-improved](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3421-find-students-who-improved) |
 | [3475-dna-pattern-recognition](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3475-dna-pattern-recognition) |
 | [3497-analyze-subscription-conversion](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3497-analyze-subscription-conversion) |
+| [3564-seasonal-sales-analysis](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3564-seasonal-sales-analysis) |
 | [3586-find-covid-recovery-patients](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3586-find-covid-recovery-patients) |
 ## Topological Sort
 |  |
