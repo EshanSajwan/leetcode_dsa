@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1143-longest-common-subsequence) |
 | [1154-day-of-the-year](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1154-day-of-the-year) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1405-longest-happy-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1405-longest-happy-string) |
 | [1417-reformat-the-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1417-reformat-the-string) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1207-unique-number-of-occurrences](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1338-reduce-array-size-to-the-half](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1338-reduce-array-size-to-the-half) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -699,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0658-find-k-closest-elements) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1871-jump-game-vii) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
