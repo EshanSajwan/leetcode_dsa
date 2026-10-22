@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1338-reduce-array-size-to-the-half) |
 | [1340-jump-game-v](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1340-jump-game-v) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1463-cherry-pickup-ii) |
 | [1470-shuffle-the-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1470-shuffle-the-array) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0724-find-pivot-index) |
 | [1094-car-pooling](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1094-car-pooling) |
 | [1314-matrix-block-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1314-matrix-block-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1603-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1732-find-the-highest-altitude) |
@@ -706,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0658-find-k-closest-elements) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1871-jump-game-vii) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
