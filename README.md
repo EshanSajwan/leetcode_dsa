@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1154-day-of-the-year) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1248-count-number-of-nice-subarrays](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1323-maximum-69-number](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1323-maximum-69-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1207-unique-number-of-occurrences](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1248-count-number-of-nice-subarrays](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1267-count-servers-that-communicate) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1094-car-pooling) |
+| [1248-count-number-of-nice-subarrays](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1314-matrix-block-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1314-matrix-block-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-number-of-equivalent-domino-pairs](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1207-unique-number-of-occurrences](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1338-reduce-array-size-to-the-half](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1338-reduce-array-size-to-the-half) |
@@ -720,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
