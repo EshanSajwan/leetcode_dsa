@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-groups-of-special-equivalent-strings](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0904-fruit-into-baskets](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0907-sum-of-subarray-minimums) |
+| [0930-binary-subarrays-with-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0931-minimum-falling-path-sum) |
 | [0941-valid-mountain-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0941-valid-mountain-array) |
 | [0946-validate-stack-sequences](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0946-validate-stack-sequences) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0410-split-array-largest-sum) |
 | [0528-random-pick-with-weight](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0528-random-pick-with-weight) |
 | [0724-find-pivot-index](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1094-car-pooling) |
 | [1314-matrix-block-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1314-matrix-block-sum) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0904-fruit-into-baskets](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [0957-prison-cells-after-n-days](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0957-prison-cells-after-n-days) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -715,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
