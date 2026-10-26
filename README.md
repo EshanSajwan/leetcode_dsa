@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1851-minimum-interval-to-include-each-query) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2498-frog-jump-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2498-frog-jump-ii) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2027-minimum-moves-to-convert-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2027-minimum-moves-to-convert-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1871-jump-game-vii) |
 | [1991-find-the-middle-index-in-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1991-find-the-middle-index-in-array) |
 | [2017-grid-game](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2017-grid-game) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2121-intervals-between-identical-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2121-intervals-between-identical-elements) |
 | [2615-sum-of-distances](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2615-sum-of-distances) |
 | [3225-maximum-score-from-grid-operations](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3225-maximum-score-from-grid-operations) |
@@ -736,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1871-jump-game-vii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [3206-alternating-groups-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3206-alternating-groups-i) |
 ## Dynamic Programming
