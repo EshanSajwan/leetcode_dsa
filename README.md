@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1340-jump-game-v) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1424-diagonal-traverse-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1424-diagonal-traverse-ii) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1463-cherry-pickup-ii) |
 | [1470-shuffle-the-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1470-shuffle-the-array) |
@@ -1108,6 +1109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1338-reduce-array-size-to-the-half](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1338-reduce-array-size-to-the-half) |
 | [1340-jump-game-v](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1340-jump-game-v) |
+| [1424-diagonal-traverse-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1424-diagonal-traverse-ii) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -1143,6 +1145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1094-car-pooling) |
 | [1338-reduce-array-size-to-the-half](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1338-reduce-array-size-to-the-half) |
 | [1405-longest-happy-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1405-longest-happy-string) |
+| [1424-diagonal-traverse-ii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1424-diagonal-traverse-ii) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2233-maximum-product-after-k-increments](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2233-maximum-product-after-k-increments) |
