@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1673-find-the-most-competitive-subsequence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1695-maximum-erasure-value](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1748-sum-of-unique-elements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1695-maximum-erasure-value](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1695-maximum-erasure-value) |
+| [1748-sum-of-unique-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1748-sum-of-unique-elements) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2008-maximum-earnings-from-taxi](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2008-maximum-earnings-from-taxi) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1267-count-servers-that-communicate](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1267-count-servers-that-communicate) |
+| [1748-sum-of-unique-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1748-sum-of-unique-elements) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2248-intersection-of-multiple-arrays](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2248-intersection-of-multiple-arrays) |
