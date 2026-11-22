@@ -1,10 +1,10 @@
 class Solution {
     public boolean increasingTriplet(int[] nums) {
-        int f = Integer.MAX_VALUE , s = Integer.MAX_VALUE;
-        for(int t : nums){
-            if(t <= f) f = t;
-            else if( t <= s) s = t;
-            else return true;
+        int first = Integer.MAX_VALUE , second = Integer.MAX_VALUE;
+        for(int i = 0 ; i < nums.length ; i++){
+            if(nums[i] > second) return true;
+            if(nums[i] > first && nums[i] < second) second = nums[i];
+            else if(nums[i] < first) first = nums[i];
         }
         return false;
     }
