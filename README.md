@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1592-rearrange-spaces-between-words](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1592-rearrange-spaces-between-words) |
+| [1768-merge-strings-alternately](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1768-merge-strings-alternately) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1859-sorting-the-sentence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1859-sorting-the-sentence) |
 | [1871-jump-game-vii](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1871-jump-game-vii) |
@@ -890,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0845-longest-mountain-in-array) |
 | [1023-camelcase-matching](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1023-camelcase-matching) |
 | [1048-longest-string-chain](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1048-longest-string-chain) |
+| [1768-merge-strings-alternately](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1768-merge-strings-alternately) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Stack
 |  |
