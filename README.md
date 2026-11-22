@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0554-brick-wall) |
 | [0565-array-nesting](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0565-array-nesting) |
 | [0566-reshape-the-matrix](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0566-reshape-the-matrix) |
+| [0605-can-place-flowers](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0621-task-scheduler) |
 | [0641-design-circular-deque](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0643-maximum-average-subarray-i) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0410-split-array-largest-sum) |
+| [0605-can-place-flowers](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0757-set-intersection-size-at-least-two](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0757-set-intersection-size-at-least-two) |
