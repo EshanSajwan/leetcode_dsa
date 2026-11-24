@@ -1,19 +1,22 @@
 class Solution {
     public int maxVowels(String s, int k) {
-        int res = 0 , count = 0;
-        int[] isV = new int[26];
-        isV['a' - 'a'] = 1;
-        isV['e' - 'a'] = 1;
-        isV['i' - 'a'] = 1;
-        isV['o' - 'a'] = 1;
-        isV['u' - 'a'] = 1;
-        for(int i = 0 ; i < s.length() ; i++){
-            if(isV[s.charAt(i) - 'a'] == 1) count++;
-            if(i > k - 2){
-                res = Math.max(res , count);
-                if(isV[s.charAt(i - k + 1) - 'a'] == 1) count--;
-            }
+        int count = 0 , maxi = 0;
+        char ch ;
+        for(int i = 0 ; i < k ; i++){
+            ch = s.charAt(i);
+            if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u')
+            count++;
         }
-        return res;
+        maxi = count;
+        for(int i = k ; i < s.length() ; i++){
+            ch = s.charAt(i - k);
+            if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u')
+            count--;
+            ch = s.charAt(i);
+            if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u')
+            count++;
+            maxi = Math.max(maxi , count);
+        }
+        return maxi;
     }
 }
