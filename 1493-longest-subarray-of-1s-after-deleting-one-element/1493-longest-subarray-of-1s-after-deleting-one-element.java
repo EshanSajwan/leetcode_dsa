@@ -7,9 +7,8 @@ class Solution {
                 if(nums[i] == 0) zero--;
                 i++;
             }
-            maxi = Math.max(j - i + 1 - zero , maxi);
+            maxi = Math.max(j - i , maxi);
         }
-        if(maxi == nums.length) return maxi - 1;
         return maxi;
     }
 }
