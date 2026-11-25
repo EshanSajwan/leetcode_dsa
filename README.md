@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1592-rearrange-spaces-between-words](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1592-rearrange-spaces-between-words) |
+| [1657-determine-if-two-strings-are-close](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1768-merge-strings-alternately) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1859-sorting-the-sentence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1859-sorting-the-sentence) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1657-determine-if-two-strings-are-close](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1657-determine-if-two-strings-are-close) |
 | [1695-maximum-erasure-value](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1695-maximum-erasure-value) |
 | [1748-sum-of-unique-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1748-sum-of-unique-elements) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1857-largest-color-value-in-a-directed-graph) |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/EshanSajwan/leetcode_dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1267-count-servers-that-communicate](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1267-count-servers-that-communicate) |
+| [1657-determine-if-two-strings-are-close](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1657-determine-if-two-strings-are-close) |
 | [1748-sum-of-unique-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1748-sum-of-unique-elements) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -1144,6 +1147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [1657-determine-if-two-strings-are-close](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1657-determine-if-two-strings-are-close) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1859-sorting-the-sentence](https://github.com/EshanSajwan/leetcode_dsa/tree/master/1859-sorting-the-sentence) |
